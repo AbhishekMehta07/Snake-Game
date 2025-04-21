@@ -10,7 +10,7 @@ A simple Snake Game built using C++ and the console interface. This is a classic
 - Score tracking
 - Game-over detection (collision with walls or itself)
 - Simple console-based UI
-
+  
 ------------------------------------
 🛠 Installation & Usage:
 ------------------------------------
